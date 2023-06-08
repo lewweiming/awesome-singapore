@@ -6,3 +6,7 @@ A curated list of awesome stuff in Singapore
 ## The Best Chicken Rice
 
 https://www.youtube.com/watch?v=toFZJ9ICWWY
+
+## Inspire By:
+https://github.com/rubysg/singapore
+https://github.com/minelarka14/awesome-singapore
