@@ -7,6 +7,11 @@ A curated list of awesome stuff in Singapore
 
 https://www.youtube.com/watch?v=toFZJ9ICWWY
 
+## Government & Country Data
+
+- https://www.mof.gov.sg/singaporebudget/revenue-and-expenditure
+- http://data.gov.sg
+
 ## Career, Jobs & Skills Portal
 
 - https://www.jobslah.com
