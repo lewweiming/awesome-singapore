@@ -12,6 +12,10 @@ https://www.youtube.com/watch?v=toFZJ9ICWWY
 - https://www.mof.gov.sg/singaporebudget/revenue-and-expenditure
 - http://data.gov.sg
 
+## Top Youtube Channels for Singaporeans
+
+- https://www.youtube.com/@ZULAsg
+
 ## Career, Jobs & Skills Portal
 
 - https://www.jobslah.com
