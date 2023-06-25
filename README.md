@@ -1,5 +1,6 @@
 # awesome-singapore
-A curated list of awesome stuff in Singapore
+
+A curated list of awesome stuff in Singapore. This list will be constantly expanding as life goes on. :D
 
 ![](https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Singapore_240-animated-flag-gifs.gif)
 
