@@ -20,7 +20,12 @@ https://www.youtube.com/watch?v=toFZJ9ICWWY
 
 ## Top Apps To Download For Citizens / PR
 
-- LifeSG
+- LifeSG (Family Matters)
+- TraceTogther (For the Pandemic)
+- NLB (For Library Go-ers)
+- ActiveSG (For Sports Go-ers)
+- Singpass
+- ACRAOnTheGo (Deprecated)
 
 ## Top Youtube Channels for Singaporeans
 
