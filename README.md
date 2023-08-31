@@ -18,6 +18,10 @@ https://www.youtube.com/watch?v=toFZJ9ICWWY
 - https://www.mof.gov.sg/singaporebudget/revenue-and-expenditure
 - http://data.gov.sg
 
+## Top Apps To Download For Citizens / PR
+
+- LifeSG
+
 ## Top Youtube Channels for Singaporeans
 
 - https://www.youtube.com/@ZULAsg
