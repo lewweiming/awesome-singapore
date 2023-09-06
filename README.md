@@ -38,6 +38,10 @@ https://www.youtube.com/watch?v=toFZJ9ICWWY
 - https://www.jobstreet.com.sg
 - https://sg.indeed.com
 
-## Inspire By:
+## Blogs
+
+- http://singaporealternatives.blogspot.com
+
+## Inspired By:
 https://github.com/rubysg/singapore
 https://github.com/minelarka14/awesome-singapore
