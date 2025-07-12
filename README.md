@@ -42,6 +42,10 @@ https://www.youtube.com/watch?v=toFZJ9ICWWY
 
 - https://www.startupsg.gov.sg
 
+## Ice Baths
+
+The Ice Bath Club (River Valley)
+
 ## Youtube Channels
 
 - https://www.youtube.com/@SingaporeIncidentsChannel/videos
